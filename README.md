@@ -51,7 +51,8 @@ BIT COINT PRICE
 https://www.coindesk.com/price/bitcoin
 https://charts.bitcoin.com/bch/
 
-
+REFERENCE
+https://www.vaughnbell.net/
 
 
  
