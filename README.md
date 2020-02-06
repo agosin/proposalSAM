@@ -3,7 +3,7 @@ Februry 6, 2020, Dxarts University of Washington.
 DESCRIPTION
 
 Installation based on organic materials.
-In general terms, the piece installs a natural environment, with different elements such as plants, irrigation system, artificial sunlight, air supply and nutrient supply. It would be like a small electronic controlled greenhouse. The idea is to generate a micro sensitive biosystem that their operation (amount of water, soil nutrients, light and air) depends on external variables. Specifically of the real-time data of financial speculation, and generate links bewteen the variables of the piece and the variation in real time of some significative finanacial data. 
+In general terms, the piece installs a natural environment, with different elements such as plants, irrigation system, artificial sunlight, air supply and nutrient supply. It would be like a small electronic controlled greenhouse. The idea is  create a micro sensitive biosystem, that their operation (amount of water, soil nutrients, light and air) depends on external variables. Specifically of the real-time data of financial speculation, and generate links bewteen the variables of the piece and the variation in real time of some significative finanacial data. 
 
 Questions/contradictions
 
