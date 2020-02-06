@@ -38,6 +38,13 @@ ISSUES TO DEVELOPE
 5. User Interface using arduino/proccesing
 5. Examples of this kind of project regarding the documentation and preservation
 
+ONLINE DATA WALL STREET
+https://www.wsj.com/market-data
+
+BIT COINT PRICE
+https://www.coindesk.com/price/bitcoin
+https://charts.bitcoin.com/bch/
+
 
 
 
