@@ -17,7 +17,7 @@ Questions/contradictions
 
 CHALENGES
 1. Preservation of organic material: 
-An important part of the piece would be impossible to preserv, organic material should be replaced for each exhibition. Therefore the chalenge would be about the documentation and implemtation to  future exhibitions. The preservation of a pice like this is incomplete and depend directly of the documentation.
+An important part of the piece would be impossible to preserv, organic material should be replaced for each exhibition. Therefore the chalenge would be about the documentation and implemtation to  future exhibitions. The preservation of a piece like this is incomplete and depend directly of the documentation.
 
 2. Code issues: This piece depend of the collection of external and online data. In this sense, it would be two problems:
   1. Data codification: internet protocols could change/ the codification of online data could change / website adress could  
