@@ -7,7 +7,7 @@ In general terms, the piece installs a natural environment, with different eleme
 
 Questions/contradictions
 
-0. In a speculative perspective, In the future, maybe we will have to pay for the air, or for use the sun (Some countries have to pay taxes for collect sun energy). And now the land is private and has a cost, the water has a cost and in some countries, Like Chile, the water is private and their use is controlled for economic and transantional groups.
+0. In a speculative perspective, In the future, maybe we will have to pay for the air, or for use the sun (Some countries have to pay taxes for collect sun energy). And now the land is private and has a cost, the water has a cost and in some countries, Like Chile, the water is private and their use is controlled for economic and transnational groups.
 1. What happend when the natural/vital resources are controlled by the financial speculation?
 2. What data to take?
 3. What other types of variables to consider in the system? the human interaction in real time with the piece could affect the way in how to interpretate the external variables (speculation data)
