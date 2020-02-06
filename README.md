@@ -10,8 +10,9 @@ Questions/contradictions
 0. In a speculative perspective, In the future, maybe we will have to pay for the air, or for use the sun (Some countries have to pay taxes for collect sun energy). And now the land is private and has a cost, the water has a cost and in some countries, Like Chile, the water is private and their use is controlled for economic and transantional groups.
 1. What happend when the natural/vital resources are controlled by the financial speculation?
 2. What data to take?
-3. What are the differences between the cryptocurrency system variation and wall street speculation? 
-4. How  and in how many times the fianacial speculation affect the economy?
+3. What other typed of variables to consider in the system? the human interaction in real time with piece could affect the way in how to interpretate the external variable (speculation data)
+4. What are the differences between the cryptocurrency system variation and wall street speculation? 
+5. How  and in how many times the fianacial speculation affect the economy?
 
 
 CHALENGES
